@@ -1,0 +1,13 @@
+
+.buttons{
+  display:flex;
+  justify-content:space-between;
+}
+
+.button{
+  padding:0 20px;
+}
+
+.underButton{
+  padding:0 45px;
+}
